@@ -1,3 +1,6 @@
 #jdiejjfmdkkd
 print('helo')
-o=input()
+o=int(input())
+h=int(input())
+print("{}+{}".format(o,h))
+print(o+h)
