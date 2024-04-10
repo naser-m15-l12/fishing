@@ -1,4 +1,3 @@
-
 print('helo')
 o=int(input())
 h=int(input())
